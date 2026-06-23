@@ -1,0 +1,5 @@
+#pragma once
+
+#define ANIM_FRAME_COUNT 48
+#define ANIM_FRAME_SIZE  240
+#define ANIM_FRAME_BYTES (ANIM_FRAME_SIZE * ANIM_FRAME_SIZE * 2)
